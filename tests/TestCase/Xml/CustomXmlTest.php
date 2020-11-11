@@ -7,7 +7,7 @@ namespace App\Test\TestCase\Xml;
 use App\Xml\CustomXml;
 use Cake\TestSuite\TestCase;
 
-class CustomXmlFactoryTest extends TestCase
+class CustomXmlTest extends TestCase
 {
     public function testCustom()
     {
